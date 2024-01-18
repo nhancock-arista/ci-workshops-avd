@@ -34,7 +34,7 @@ servers:
 # Site1 RACK2 Endpoints
 # --------------------------------------------------------#
 
-  - name: s1-host2                                      # Server name
+  - name: s1-host3                                      # Server name
     rack: RACK2                                         # Informational RACK (optional)
     adapters:
       - endpoint_ports: [ eth1, eth2 ]                  # Server port to connect (optional)
